@@ -4,7 +4,7 @@
 
 - <b>Microsoft Azure</b>
   - [Registering with Microsoft Azure and Creating First Resource](https://github.com/joesimmonsIT/Microsoft-Azure)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Creating Windows & Linux Virtual Machines](https://github.com/joesimmonsIT/Virtual-Machines-WND-LNX-)
     
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
