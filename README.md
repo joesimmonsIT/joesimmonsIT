@@ -5,6 +5,7 @@
 - <b>Microsoft Azure</b>
   - [Registering with Microsoft Azure and Creating First Resource](https://github.com/joesimmonsIT/Microsoft-Azure)
   - [Creating Windows & Linux Virtual Machines](https://github.com/joesimmonsIT/Virtual-Machines-WND-LNX-)
+  - [Remote Desktop Connection with Windows 10 Virtual Machine](https://github.com/joesimmonsIT/Virtual-Machines-WND-LNX-)
     
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
