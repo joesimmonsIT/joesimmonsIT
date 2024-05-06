@@ -6,6 +6,7 @@
   - [Registering with Microsoft Azure and Creating First Resource](https://github.com/joesimmonsIT/Microsoft-Azure)
   - [Creating Windows & Linux Virtual Machines](https://github.com/joesimmonsIT/Virtual-Machines-WND-LNX-)
   - [Remote Desktop Connection with Windows 10 Virtual Machine](https://github.com/joesimmonsIT/Remote-Desktop-Connection)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joesimmonsIT/Traffic-Sources)
     
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
@@ -22,7 +23,7 @@
  
 - <b>DNS</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+  
  
 - <b>Network File Shares & Permissions</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
