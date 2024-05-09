@@ -17,8 +17,8 @@
   - [Exploring Multiple VPN's](https://github.com/joesimmonsIT/VPN)
 
 - <b>Active Directory</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Configuring Active Directory within Azure VMs](https://github.com/joesimmonsIT/Active-Directory-Configuration)
+
  
 - <b>DNS</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
