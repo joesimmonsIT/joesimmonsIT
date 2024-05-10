@@ -25,8 +25,7 @@
   
  
 - <b>Network File Shares & Permissions</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Creating File Shares & Granting Permissions ](https://github.com/joesimmonsIT/File-Shares-Permissions)
     
 - <b>Application Installations</b>
   - [Wireshark - Installation](https://github.com/joesimmonsIT/Wireshark)
