@@ -21,7 +21,7 @@
 
  
 - <b>DNS</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+  - [Exploring DNS ](https://github.com/joesimmonsIT/DNS)
   
  
 - <b>Network File Shares & Permissions</b>
